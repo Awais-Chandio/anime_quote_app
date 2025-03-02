@@ -70,10 +70,6 @@ lib/
 
 - Android: Run on an emulator or physical device.
 - iOS: Run on a simulator or physical device.
-- Web: Run in a browser using:
-  ```bash
-  flutter run -d chrome
-  ```
 
 ---
 
@@ -99,5 +95,3 @@ For questions or feedback, reach out:
 ---
 
 Enjoy the app! 🚀
-
----
